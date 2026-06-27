@@ -1,0 +1,176 @@
+[
+  {
+    "username": "alex_morgan",
+    "email": "alex.morgan@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100001",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+  },
+  {
+    "username": "priya_sharma",
+    "email": "priya.sharma@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100002",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+  },
+  {
+    "username": "Prasanth",
+    "email": "james.carter@example.com",
+    "password": "Pass1234!",
+    "phone": "+919989703453"
+  },
+  {
+    "username": "sofia_lima",
+    "email": "sofia.lima@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100004",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+  },
+  {
+    "username": "liam_chen",
+    "email": "liam.chen@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100005",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+  },
+  {
+    "username": "amara_diallo",
+    "email": "amara.diallo@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100006",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+  },
+  {
+    "username": "noah_patel",
+    "email": "noah.patel@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100007",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+  },
+  {
+    "username": "chloe_martin",
+    "email": "chloe.martin@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100008",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+  },
+  {
+    "username": "ethan_brooks",
+    "email": "ethan.brooks@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100009",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+  },
+  {
+    "username": "yuki_tanaka",
+    "email": "yuki.tanaka@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100010",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+  },
+  {
+    "username": "marco_rossi",
+    "email": "marco.rossi@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100011",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+  },
+  {
+    "username": "fatima_hassan",
+    "email": "fatima.hassan@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100012",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+  },
+  {
+    "username": "oliver_kim",
+    "email": "oliver.kim@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100013",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  },
+  {
+    "username": "elena_popescu",
+    "email": "elena.popescu@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100014",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+  },
+  {
+    "username": "rafael_torres",
+    "email": "rafael.torres@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100015",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+  },
+  {
+    "username": "aisha_nkosi",
+    "email": "aisha.nkosi@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100016",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+  },
+  {
+    "username": "lucas_weber",
+    "email": "lucas.weber@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100017",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+  },
+  {
+    "username": "mei_zhang",
+    "email": "mei.zhang@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100018",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+  },
+  {
+    "username": "daniel_osei",
+    "email": "daniel.osei@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100019",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+  },
+  {
+    "username": "sara_johansson",
+    "email": "sara.johansson@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100020",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+  },
+  {
+    "username": "ryan_nguyen",
+    "email": "ryan.nguyen@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100021",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+  },
+  {
+    "username": "layla_ahmed",
+    "email": "layla.ahmed@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100022",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+  },
+  {
+    "username": "ben_fitzgerald",
+    "email": "ben.fitzgerald@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100023",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+  },
+  {
+    "username": "nina_volkov",
+    "email": "nina.volkov@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100024",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+  },
+  {
+    "username": "carlos_mendez",
+    "email": "carlos.mendez@example.com",
+    "password": "Pass1234!",
+    "phone": "+15550100025",
+    "avatar_url": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+  }
+]
