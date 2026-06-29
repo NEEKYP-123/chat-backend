@@ -31,7 +31,7 @@ async def seed():
             'password':         hash_password(u['password']),
             'phone':            u['phone'],
             'phone_normalized': normalize_phone(u['phone']),
-            'avatar_url':       u['avatar_url'],
+            'avatar_url':       u.get('avatar_url'),
             'onesignal_player_id': None,
         })
         inserted += 1
